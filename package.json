@@ -1,0 +1,10 @@
+{
+  "dependencies": {
+    "@radix-ui/react-checkbox": "^1.0.0",
+    "@storybook/addon-a11y": "^6.5.12",
+    "phosphor-react": "^1.4.1"
+  },
+  "devDependencies": {
+    "@storybook/storybook-deployer": "^2.8.12"
+  }
+}
